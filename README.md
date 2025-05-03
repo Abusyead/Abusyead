@@ -46,7 +46,8 @@ Skills: HTML / CSS /  JS / BOOTSTRAP / REACT /
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+!{React Router](https://img.shields.io/badge/react-router-F0DB4F?style=for-the-badge&labelColor=black&logo=reactrouter rougher&logoColor=F0DB4F"
+    
 <br/>
 
 ## Best Repo -
